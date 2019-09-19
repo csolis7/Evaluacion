@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Primera Evaluacion</string>
+    <string name="msgNuevoEstu">Nuevo estudiante</string>
+    <string name="msgListaEstu">Lista de estudiantes</string>
+    <string name="msgDatos">Mis datos</string>
+    <string name="correlativo">1</string>
+    <string name="codigo">PS15-I04-002</string>
+    <string name="nombre">Cesar Alexander Peñate Solis</string>
+    <string name="materia">Dispositivos Moviles</string>
+    <string name="tituloDatos">DATOS</string>
+
+    <string name="mNombre">Nombre:</string>
+    <string name="mCodigo">Código:</string>
+    <string name="mMateria">Materia:</string>
+    <string name="mPrimer">Primer parcial:</string>
+    <string name="mSegundo">Segundo parcial:</string>
+    <string name="mTercero">Tercer parcial:</string>
+    <string name="mGuardar">Guardar</string>
+</resources>
